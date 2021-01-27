@@ -1,0 +1,16 @@
+{
+  "venue": {
+    "layout": {
+      "rows": 100,
+      "columns": 6000
+    }
+  },
+  "seats": {
+    "b5": {
+      "id": "b5",
+      "row": "b",
+      "column": 5,
+      "status": "AVAILABLE"
+    }
+  }
+}
